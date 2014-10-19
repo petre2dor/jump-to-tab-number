@@ -1,0 +1,9 @@
+{
+  "name": "jump-to-tab-number",
+  "title": "Jump to tab number",
+  "id": "jid1-5Dupt48n4BoMzA",
+  "description": "This addon adds an index number before each tab title so you can use ALT+tab_number to jump to tabs. ATL+9 always jumps to the last tab.",
+  "author": "Petre Tudor",
+  "license": "MPL 2.0",
+  "version": "0.1"
+}
