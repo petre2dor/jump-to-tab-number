@@ -1,9 +1,12 @@
 {
-  "name": "jump-to-tab-number",
   "title": "Jump to tab number",
-  "id": "jid1-5Dupt48n4BoMzA",
+  "name": "jumptotabnumber",
+  "version": "0.0.2",
   "description": "This addon adds an index number before each tab title so you can use ALT+tab_number to jump to tabs. ATL+9 always jumps to the last tab.",
+  "main": "index.js",
   "author": "Petre Tudor",
-  "license": "MPL 2.0",
-  "version": "0.1"
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "GPL V3"
 }
